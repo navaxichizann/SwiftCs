@@ -5,9 +5,10 @@ A lightweight, customizable Swift package offering custom UI components, shapes,
 
 ### Features
 
-1. FeatureList
-2. GlossyButton
-3. GlossyToggle
+1. CustomColors
+2. FeatureList
+3. GlossyButton
+4. GlossyToggle
 
 ### Installation
 
