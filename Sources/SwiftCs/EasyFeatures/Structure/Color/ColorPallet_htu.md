@@ -1,5 +1,5 @@
 # Color Pallet
-*/Color Pallet Ver: 1.1.7:1.1.7/*
+*/Color Pallet Ver: 1.1.8:1.1.7/*
 
 A custom SwiftUI color palette featuring vibrant accent colors, warm earth tones, and clean neutral grays.
 ## How to use
@@ -26,11 +26,26 @@ Add the package dependency using this link (https://github.com/navaxichizann/Swi
 ### OreColor Dark
 ![OreColorDark](/As&Re/ColorPallet3.png)
 
+| Color | Swift Syntax | Hex Code | RGB |
+| :--- | :--- | :--- | :--- |
+| Ruby | `.ruby` | `#9B0F1E` | 155, 15, 30 |
+| Copper | `.copper` | `#B87333` | 184, 115, 51 |
+| Gold | `.gold` | `#CD9300` | 205, 147, 0 |
+| Emerald | `.emerald` | `#105E26` | 16, 94, 38 |
+| Lapis | `.lapis` | `#26619C` | 38, 97, 156 |
+| Amethyst | `.amethyst` | `#6D4B8F` | 109, 75, 143 |
+
 > Available from version 1.1.8 and up.
 
 ### OreColor Light
 
 ![OreColorLight](/As&Re/ColorPallet4.png)
+
+| Color | Swift Syntax | Hex Code | RGB |
+| :--- | :--- | :--- | :--- |
+| Diamonds | `.diamonds` | `#B9F2FF` | 185, 242, 255 |
+| Rose Quartz | `.roseQuartz` | `#F7879A` | 247, 135, 154 |
+| Milky Quartz | `.milkyQuartz` | `#F5E8C2` | 245, 232, 194 |
 
 > Available from version 1.1.8 and up.
 
