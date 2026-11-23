@@ -1,5 +1,5 @@
 # SwiftCs (SwiftCustoms)
-*/SwiftCs Version: 1.1.7.4/Release/*
+*/SwiftCs Version: 1.1.8.3/Release/*
 
 A lightweight, customizable Swift package offering custom UI components, shapes, and utility features for SwiftUI applications.
 
@@ -18,7 +18,9 @@ Add package dependency using this link (https://github.com/navaxichizann/SwiftCs
 ```
 As&Re/
 ├── ColorPallet1.png
-└── ColorPallet2.png
+├── ColorPallet2.png
+├── ColorPallet3.png
+└── ColorPallet4.png
 SwiftCs-SwiftCustoms/
 ├── LICENSE
 ├── Package.swift
@@ -26,18 +28,20 @@ SwiftCs-SwiftCustoms/
 └── Sources/
     └── SwiftCs/
         ├── Button/
-        │   ├── GlossyButton.swift *Ver: 1.1.7:1.1.0*
+        │   ├── GlossyButton.swift *Ver: 1.1.8:1.1.0*
         │   └── GlossyButton_htu.md
         ├── EasyFeatures/
         │   ├── Features/
-        │   │   ├── FeatureList-EF.swift *Ver: 1.1.7:1.1.5*
+        │   │   ├── FeatureList-EF.swift *Ver: 1.1.8:1.1.5*
         │   │   ├── FeatureList_htu.md
         │   │   └── Gradients-EF.swift *Unavalible*
         │   └── Structure/
         │       ├── Color/
-        │       │   ├── CPallet-GrayScale.swift *Ver: 1.1.7:1.1.7*
-        │       │   ├── CPallet-SubBase1.swift *Ver: 1.1.7:1.1.7*
-        │       │   └── Gradients-EF.swift
+        │       │   ├── CPallet-GrayScale.swift *Ver: 1.1.8:1.1.7*
+        │       │   ├── CPallet-OreColorDark.swift *Ver: 1.1.8:1.1.8*
+        │       │   ├── CPallet-OreColorLight.swift *Ver: 1.1.8:1.1.8*
+        │       │   ├── CPallet-SubBase1.swift *Ver: 1.1.8:1.1.7*
+        │       │   └── ColorPallet_htu.md
         │       └── Shapes/
         │           └── TriangleShape.swift *In development*
         └── Toggle/
