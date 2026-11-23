@@ -23,6 +23,17 @@ Add the package dependency using this link (https://github.com/navaxichizann/Swi
 
 > Availible from version 1.1.7 and up.
 
+### OreColor Dark
+![OreColorDark](/As&Re/ColorPallet3.png)
+
+> Available from version 1.1.8 and up.
+
+### OreColor Light
+
+![OreColorLight](/As&Re/ColorPallet4.png)
+
+> Available from version 1.1.8 and up.
+
 ### GrayScale Color
 ![GrayScale](/As&Re/ColorPallet2.png)
 
