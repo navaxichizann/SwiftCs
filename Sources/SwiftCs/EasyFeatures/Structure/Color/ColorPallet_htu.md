@@ -35,7 +35,7 @@ Add the package dependency using this link (https://github.com/navaxichizann/Swi
 | Lapis | `.lapis` | `#26619C` | 38, 97, 156 |
 | Amethyst | `.amethyst` | `#6D4B8F` | 109, 75, 143 |
 
-> Available from version 1.1.8 and up.
+> Available from version 1.2.0 and up.
 
 ### OreColor Light
 
@@ -47,7 +47,7 @@ Add the package dependency using this link (https://github.com/navaxichizann/Swi
 | Rose Quartz | `.roseQuartz` | `#F7879A` | 247, 135, 154 |
 | Milky Quartz | `.milkyQuartz` | `#F5E8C2` | 245, 232, 194 |
 
-> Available from version 1.1.8 and up.
+> Available from version 1.2.0 and up.
 
 ### GrayScale Color
 ![GrayScale](/As&Re/ColorPallet2.png)
