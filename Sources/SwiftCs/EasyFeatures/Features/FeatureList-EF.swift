@@ -143,7 +143,7 @@ public struct FeatureList: View {
                         .clipShape(unevroundedrect)
                         .padding(5)
                         .opacity(0.5)
-                    Text("Ver: 1.1.8")
+                    Text("Ver: 1.2.0")
                         .foregroundStyle(.black)
                         .padding(8)
                 }
