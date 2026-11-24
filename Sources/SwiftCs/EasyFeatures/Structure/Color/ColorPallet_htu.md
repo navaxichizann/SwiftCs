@@ -1,5 +1,5 @@
 # Color Pallet
-*/Color Pallet Ver: 1.1.8:1.1.7/*
+*/Color Pallet Ver: 1.2.0:1.1.7/*
 
 A custom SwiftUI color palette featuring vibrant accent colors, warm earth tones, and clean neutral grays.
 ## How to use
