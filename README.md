@@ -36,7 +36,7 @@ SwiftCs-SwiftCustoms/
         │   ├── Features/
         │   │   ├── FeatureList-EF.swift *Ver: 1.2.0:1.1.5*
         │   │   ├── FeatureList_htu.md
-        │   │   └── Gradients-EF.swift *Unavalible*
+        │   │   └── Gradients-EF.swift *Under Development*
         │   └── Structure/
         │       ├── Color/
         │       │   ├── CPallet-GrayScale.swift *Ver: 1.2.0:1.1.7*
@@ -48,7 +48,7 @@ SwiftCs-SwiftCustoms/
         │           ├── TriangleShape.swift *Ver: 1.2.0:1.2.0*
         │           └── RightTriangleShape.swift *Ver: 1.2.0:1.2.0*
         └── Toggle/
-            ├── GlossyToggle.swift *Ver: 1.1.7:1.0.04*
+            ├── GlossyToggle.swift *Ver: 1.2.0:1.0.04*
             ├── GlossyToggle_htu.md
-            └── LightSwitchToggle.swift *Unavalible*
+            └── LightSwitchToggle.swift *Not in to-do list*
 ```
