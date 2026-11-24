@@ -1,5 +1,5 @@
 # SwiftCs (SwiftCustoms)
-*/SwiftCs Version: 1.1.8.3/Release/*
+*/SwiftCs Version: 1.2.0.7/Release/*
 
 A lightweight, customizable Swift package offering custom UI components, shapes, and utility features for SwiftUI applications.
 
@@ -9,6 +9,7 @@ A lightweight, customizable Swift package offering custom UI components, shapes,
 2. FeatureList
 3. GlossyButton
 4. GlossyToggle
+5. TriangleShape
 
 ### Installation
 
@@ -29,22 +30,23 @@ SwiftCs-SwiftCustoms/
 └── Sources/
     └── SwiftCs/
         ├── Button/
-        │   ├── GlossyButton.swift *Ver: 1.1.8:1.1.0*
+        │   ├── GlossyButton.swift *Ver: 1.2.0:1.1.0*
         │   └── GlossyButton_htu.md
         ├── EasyFeatures/
         │   ├── Features/
-        │   │   ├── FeatureList-EF.swift *Ver: 1.1.8:1.1.5*
+        │   │   ├── FeatureList-EF.swift *Ver: 1.2.0:1.1.5*
         │   │   ├── FeatureList_htu.md
         │   │   └── Gradients-EF.swift *Unavalible*
         │   └── Structure/
         │       ├── Color/
-        │       │   ├── CPallet-GrayScale.swift *Ver: 1.1.8:1.1.7*
-        │       │   ├── CPallet-OreColorDark.swift *Ver: 1.1.8:1.1.8*
-        │       │   ├── CPallet-OreColorLight.swift *Ver: 1.1.8:1.1.8*
-        │       │   ├── CPallet-SubBase1.swift *Ver: 1.1.8:1.1.7*
+        │       │   ├── CPallet-GrayScale.swift *Ver: 1.2.0:1.1.7*
+        │       │   ├── CPallet-OreColorDark.swift *Ver: 1.2.0:1.1.8*
+        │       │   ├── CPallet-OreColorLight.swift *Ver: 1.2.0:1.1.8*
+        │       │   ├── CPallet-SubBase1.swift *Ver: 1.2.0:1.1.7*
         │       │   └── ColorPallet_htu.md
         │       └── Shapes/
-        │           └── TriangleShape.swift *In development*
+        │           ├── TriangleShape.swift *Ver: 1.2.0:1.2.0*
+        │           └── RightTriangleShape.swift *Ver: 1.2.0:1.2.0*
         └── Toggle/
             ├── GlossyToggle.swift *Ver: 1.1.7:1.0.04*
             ├── GlossyToggle_htu.md
