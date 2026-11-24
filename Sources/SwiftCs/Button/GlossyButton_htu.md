@@ -1,5 +1,5 @@
 # How to use: GlossyButton
-*/GlossyButton Ver 1.1.8:1.1.3/*
+*/GlossyButton Ver 1.2.0:1.1.3/*
 
 GlossyButton is highly customizable, modern button component for SwiftUI supporting glassmorphism effects, flexible styling like normal button and Gesture state.
 
